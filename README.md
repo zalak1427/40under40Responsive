@@ -1,1 +1,1 @@
-# 40under40Responsive
+# 40Under40
